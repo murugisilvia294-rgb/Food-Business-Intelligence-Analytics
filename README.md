@@ -136,20 +136,29 @@ food-business-intelligence-analytics/
 │
 
 ├── phase_1_single_dishes/
+
 ├── phase_2_corporate_and_catering/
+
 │   ├── corporate_breakfast.csv
+
 │   ├── corporate_lunch.csv
+
 │   ├── catering_gigs.csv
 │
 
 ├── notebooks/
+
 │   ├── 01_Catering_Analysis.ipynb
+
 │   ├── 02_Breakfast_Analysis.ipynb
+
 │   ├── 03_Lunch_Analysis.ipynb
+
 │   └── 04_Executive_Analysis.ipynb
 │
 
 ├── dashboards/
+
 │   └── Food Business Intelligence Dashboard.pbix
 │
 └── README.md

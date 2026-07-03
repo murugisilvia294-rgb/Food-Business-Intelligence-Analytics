@@ -7,14 +7,18 @@ The analytical workflow follows this structure:
 
 Data Collection (Excel / CSV)
 ↓
+
 Python Analysis (Google Colab)
 ↓
+
 Profitability & Scalability Modeling
 ↓
 Power BI Dashboard Development
 ↓
+
 Executive Business Intelligence Reporting
 ↓
+
 Strategic Decision-Making
 
 

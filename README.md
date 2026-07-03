@@ -1,6 +1,23 @@
 # Food-Business-Intelligence-Analytics System
 A multi-stream food business analytics project combining Power BI dashboards and Python analysis to evaluate revenue, profitability, operational performance, and catering scalability across breakfast, lunch, and catering services for strategic business decision-making.
 
+## System Architecture
+
+The analytical workflow follows this structure:
+
+Data Collection (Excel / CSV)
+↓
+Python Analysis (Google Colab)
+↓
+Profitability & Scalability Modeling
+↓
+Power BI Dashboard Development
+↓
+Executive Business Intelligence Reporting
+↓
+Strategic Decision-Making
+
+
 ## Project Overview
 
 This project is a multi-phase business intelligence and analytics system designed to analyze and optimize a food service business operating across multiple revenue streams.
@@ -212,6 +229,23 @@ Tracks:
 
 ---
 
+## Final Results
+
+The project successfully evolved from a single-dish profitability model into a diversified multi-stream business intelligence system.
+
+Key outcomes:
+
+* Catering emerged as the strongest revenue and profit driver.
+* Breakfast became the most stable recurring cashflow stream.
+* Lunch created flexible pricing and optimization opportunities.
+* Business diversification reduced dependence on a single revenue source.
+* Scalability analysis validated catering as the primary expansion channel.
+
+The combined Power BI and Python workflow established a complete analytical foundation for operational decision-making, profitability tracking, and long-term business growth.
+
+
+
+
 ## Business Recommendations
 
 * Expand catering as the primary growth engine.
@@ -233,6 +267,43 @@ Planned analytical upgrades:
 * Profit forecasting
 
 ---
+
+How to Run
+
+## How to Run
+
+### Clone the repository
+
+```bash
+git clone https://github.com/yourusername/food-business-intelligence-analytics.git
+```
+
+### Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Open Python notebooks
+
+Run the notebooks in:
+
+* Google Colab
+* Jupyter Notebook
+
+### Load datasets
+
+Use the CSV files inside:
+
+* phase_2_corporate_and_catering/
+
+### Open Power BI dashboard
+
+Open:
+
+Food Business Intelligence Dashboard.pbix
+
+using Microsoft Power BI Desktop.
 
 ## Author
 

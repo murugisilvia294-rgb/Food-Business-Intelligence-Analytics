@@ -27,6 +27,8 @@ Executive Business Intelligence Reporting
 
 Strategic Decision-Making
 
+![System Architecture](Docs/architecture_diagram.png)
+
 
 ## Project Overview
 

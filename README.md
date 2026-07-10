@@ -199,8 +199,8 @@ Food-Business-Intelligence-System/
 ---
 
 # Dashboard Preview
+<img width="1430" height="718" alt="food_bi_dashboard png" src="https://github.com/user-attachments/assets/a8a96155-b41a-4258-9efc-0725e742a737" />
 
-*(Insert dashboard screenshots here.)*
 
 Recommended screenshots:
 
